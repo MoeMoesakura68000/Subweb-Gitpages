@@ -21,10 +21,12 @@ body::-webkit-scrollbar-track {
 
 /* 主页面控制按钮 */
 #theme-btn{
+    display:none;
     color:white;
 }
 /* 鼠标悬浮在主页面控制按钮 */
 #theme-btn:hover{
+    display:none;
     color:#e6e6e6;
 }
 
