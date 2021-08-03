@@ -6,6 +6,7 @@
         background-size:cover;
         background-position: center center;
         background-attachment: fixed;
+        background-filter: blur(2px);
     }
 /**//**//**//**//**//**//**//**//**//**//**//**//**/
 body::-webkit-scrollbar-thumb {
