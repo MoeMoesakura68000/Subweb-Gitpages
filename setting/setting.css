@@ -6,7 +6,8 @@
         background-size:cover;
         background-position: center center;
         background-attachment: fixed;
-        background-filter: blur(2px);
+        background-color: rgb(0 0 0 / 50%);
+        background-blend-mode: soft-light;
     }
 /**//**//**//**//**//**//**//**//**//**//**//**//**/
 body::-webkit-scrollbar-thumb {
